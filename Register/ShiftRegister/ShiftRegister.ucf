@@ -1,0 +1,15 @@
+NET "CLK" CLOCK_DEDICATED_ROUTE = FALSE;
+# PlanAhead Generated physical constraints 
+
+NET "D[3]" LOC = M8;
+NET "D[2]" LOC = V9;
+NET "D[1]" LOC = T9;
+NET "D[0]" LOC = T10;
+NET "Q[3]" LOC = V15;
+NET "Q[2]" LOC = U15;
+NET "Q[1]" LOC = V16;
+NET "S[1]" LOC = T5;
+NET "S[0]" LOC = V8;
+NET "Q[0]" LOC = U16;
+NET "CLK" LOC = B8;
+NET "OE" LOC = U8;

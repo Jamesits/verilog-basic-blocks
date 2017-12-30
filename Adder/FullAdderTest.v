@@ -1,0 +1,99 @@
+`timescale 1ns / 1ps
+
+////////////////////////////////////////////////////////////////////////////////
+// Company: 
+// Engineer:
+//
+// Create Date:   14:43:46 11/03/2017
+// Design Name:   top
+// Module Name:   /home/james/code/FullAdder/FullAdderTest.v
+// Project Name:  FullAdder
+// Target Device:  
+// Tool versions:  
+// Description: 
+//
+// Verilog Test Fixture created by ISE for module: top
+//
+// Dependencies:
+// 
+// Revision:
+// Revision 0.01 - File Created
+// Additional Comments:
+// 
+////////////////////////////////////////////////////////////////////////////////
+
+module FullAdderTest;
+
+	// Inputs
+	reg InputA;
+	reg InputB;
+	reg InputCarry;
+
+	// Outputs
+	wire OutputS;
+	wire OutputCarry;
+
+	// Instantiate the Unit Under Test (UUT)
+	top uut (
+		.InputA(InputA), 
+		.InputB(InputB), 
+		.InputCarry(InputCarry), 
+		.OutputS(OutputS), 
+		.OutputCarry(OutputCarry)
+	);
+
+	initial begin
+		// Initialize Inputs
+		InputA = 0;
+		InputB = 0;
+		InputCarry = 0;
+
+		// Wait 100 ns for global reset to finish
+		#100;
+        
+		// Add stimulus here
+		
+		InputA = 0;
+		InputB = 0;
+		InputCarry = 0;
+		#100;
+		
+		InputA = 1;
+		InputB = 0;
+		InputCarry = 0;
+		#100;
+		
+		InputA = 0;
+		InputB = 1;
+		InputCarry = 0;
+		#100;
+		
+		InputA = 1;
+		InputB = 1;
+		InputCarry = 0;
+		#100;
+		
+		InputA = 0;
+		InputB = 0;
+		InputCarry = 1;
+		#100;
+		
+		InputA = 1;
+		InputB = 0;
+		InputCarry = 1;
+		#100;
+		
+		InputA = 0;
+		InputB = 1;
+		InputCarry = 1;
+		#100;
+		
+		InputA = 1;
+		InputB = 1;
+		InputCarry = 1;
+		#100;
+
+	end
+      
+endmodule
+
