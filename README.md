@@ -2,6 +2,8 @@
 
 课堂作业。
 
+全部在 Digilent Nexys 3 (Xilinx Spartan-6 XC6LX16-CS324) 上完成。
+
 ## 目录
 
 * 加法器

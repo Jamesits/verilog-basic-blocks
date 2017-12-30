@@ -2,19 +2,19 @@
 
 ////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer:
+// Engineer:      James Swineson
 //
 // Create Date:   15:26:22 11/24/2017
 // Design Name:   EdgeJKFlipFlop
-// Module Name:   /home/james/code/EdgeJKFlipFlop/EdgeJKFlipFlopTest.v
+// Module Name:   EdgeJKFlipFlopTest.v
 // Project Name:  EdgeJKFlipFlop
-// Target Device:  
+// Target Device: XC6LX16
 // Tool versions:  
 // Description: 
 //
 // Verilog Test Fixture created by ISE for module: EdgeJKFlipFlop
 //
-// Dependencies:
+// Dependencies: EdgeJKFlipFlop.v
 // 
 // Revision:
 // Revision 0.01 - File Created

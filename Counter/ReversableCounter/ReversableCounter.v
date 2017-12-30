@@ -1,13 +1,13 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: 
+// Engineer:       James Swineson
 // 
 // Create Date:    13:54:08 12/01/2017 
-// Design Name: 
-// Module Name:    ReversableCounter 
-// Project Name: 
-// Target Devices: 
+// Design Name:    ReversableCounter
+// Module Name:    ReversableCounter.v
+// Project Name:   ReversableCounter
+// Target Devices: XC6LX16
 // Tool versions: 
 // Description: 
 //

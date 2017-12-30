@@ -1,13 +1,13 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: 
+// Engineer:       James Swineson
 // 
 // Create Date:    14:36:35 12/01/2017 
-// Design Name: 
-// Module Name:    ShiftRegister 
-// Project Name: 
-// Target Devices: 
+// Design Name:    ShiftRegister
+// Module Name:    ShiftRegister.v
+// Project Name:   ShiftRegister
+// Target Devices: XC6LX16
 // Tool versions: 
 // Description: 
 //

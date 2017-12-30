@@ -2,19 +2,19 @@
 
 ////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer:
+// Engineer:      James Swineson
 //
 // Create Date:   14:11:21 12/01/2017
 // Design Name:   ReversableCounter
-// Module Name:   /home/james/code/ReversableCounter/ReversableCounterTest.v
+// Module Name:   ReversableCounterTest.v
 // Project Name:  ReversableCounter
-// Target Device:  
+// Target Device: XC6LX16
 // Tool versions:  
 // Description: 
 //
 // Verilog Test Fixture created by ISE for module: ReversableCounter
 //
-// Dependencies:
+// Dependencies:  ReversableCounter.v
 // 
 // Revision:
 // Revision 0.01 - File Created

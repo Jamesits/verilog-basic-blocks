@@ -5,11 +5,8 @@ NET "CLK" LOC = B8;
 NET "J" LOC = T9;
 NET "K" LOC = T10;
 NET "Q" LOC = V16;
+NET "notQ" LOC = U16;
 
 # PlanAhead Generated IO constraints 
 
 NET "K" IOSTANDARD = LVCMOS25;
-
-# PlanAhead Generated physical constraints 
-
-NET "notQ" LOC = U16;

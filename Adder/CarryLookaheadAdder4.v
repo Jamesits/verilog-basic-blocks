@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: 
+// Engineer:       James Swineson
 // 
 // Create Date:    23:15:38 11/11/2017 
 // Design Name: 

@@ -2,19 +2,19 @@
 
 ////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer:
+// Engineer:      James Swineson
 //
 // Create Date:   14:45:52 12/01/2017
 // Design Name:   ShiftRegister
-// Module Name:   /home/james/code/ShiftRegister/ShiftRegisterTest.v
+// Module Name:   ShiftRegisterTest.v
 // Project Name:  ShiftRegister
-// Target Device:  
+// Target Device: XC6LX16
 // Tool versions:  
 // Description: 
 //
 // Verilog Test Fixture created by ISE for module: ShiftRegister
 //
-// Dependencies:
+// Dependencies: ShiftRegister.v
 // 
 // Revision:
 // Revision 0.01 - File Created

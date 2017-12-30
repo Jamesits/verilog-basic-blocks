@@ -2,7 +2,7 @@
 
 ////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer:
+// Engineer:      James Swineson
 //
 // Create Date:   22:15:00 11/11/2017
 // Design Name:   SerialAdder4

@@ -1,13 +1,13 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: 
+// Engineer:       James Swineson
 // 
 // Create Date:    13:39:03 11/24/2017 
-// Design Name: 
-// Module Name:    Basic_RS_FlipFlop 
-// Project Name: 
-// Target Devices: 
+// Design Name:    Basic_RS_FlipFlop
+// Module Name:    Basic_RS_FlipFlop.v
+// Project Name:   Basic_RS_FlipFlop
+// Target Devices: XC6LX16
 // Tool versions: 
 // Description: 
 //

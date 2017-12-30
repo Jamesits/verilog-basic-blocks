@@ -1,13 +1,13 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: 
+// Engineer:       James Swineson
 // 
 // Create Date:    15:21:07 11/24/2017 
 // Design Name: 
 // Module Name:    EdgeJKFlipFlop 
-// Project Name: 
-// Target Devices: 
+// Project Name:   EdgeJKFlipFlop
+// Target Devices: XC6LX16
 // Tool versions: 
 // Description: 
 //

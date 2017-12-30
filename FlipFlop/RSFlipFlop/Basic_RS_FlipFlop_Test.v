@@ -2,19 +2,19 @@
 
 ////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer:
+// Engineer:      James Swineson
 //
 // Create Date:   13:43:57 11/24/2017
 // Design Name:   Basic_RS_FlipFlop
-// Module Name:   /home/james/code/Basic_RS_FlipFlop/Basic_RS_FF_Test.v
+// Module Name:   Basic_RS_FlipFLop_Test.v
 // Project Name:  Basic_RS_FlipFlop
-// Target Device:  
+// Target Device: XC6LX16
 // Tool versions:  
 // Description: 
 //
 // Verilog Test Fixture created by ISE for module: Basic_RS_FlipFlop
 //
-// Dependencies:
+// Dependencies:  Basic_RS_FlipFlop.v
 // 
 // Revision:
 // Revision 0.01 - File Created

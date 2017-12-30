@@ -2,11 +2,11 @@
 
 ////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer:
+// Engineer:      James Swineson
 //
 // Create Date:   14:43:46 11/03/2017
-// Design Name:   top
-// Module Name:   /home/james/code/FullAdder/FullAdderTest.v
+// Design Name:   FullAdder
+// Module Name:   FullAdderTest.v
 // Project Name:  FullAdder
 // Target Device:  
 // Tool versions:  

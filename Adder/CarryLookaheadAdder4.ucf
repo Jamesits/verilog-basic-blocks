@@ -1,10 +1,7 @@
-
+# PlanAhead Generated physical constraints 
 
 NET "InputCarry" LOC = B8;
 NET "OutputCarry" LOC = M11;
-
-# PlanAhead Generated physical constraints 
-
 NET "InputA[3]" LOC = T5;
 NET "InputA[2]" LOC = V8;
 NET "InputA[1]" LOC = U8;
