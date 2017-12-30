@@ -29,4 +29,4 @@
 
 ## 版权
 
-Copyright (c) 2017-2018 James Swineson. All rights reserved. Usage of the code in school homework, exam or contest is explicitly inhabited.
+Copyright (c) 2017-2018 James Swineson. All rights reserved. Usage of the code in school homework, exam or contest is explicitly inhibited.
