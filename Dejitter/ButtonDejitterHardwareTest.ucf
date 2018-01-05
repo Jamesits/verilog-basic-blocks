@@ -1,0 +1,9 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "CLK" LOC = V10;
+NET "RST" LOC = D9;
+NET "BTN" LOC = C4;
+NET "OUT[3]" LOC = V15;
+NET "OUT[2]" LOC = U15;
+NET "OUT[1]" LOC = V16;
