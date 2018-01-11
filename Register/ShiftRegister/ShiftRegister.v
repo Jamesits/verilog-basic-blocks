@@ -11,6 +11,14 @@
 // Tool versions: 
 // Description: 
 //
+// A 4-bit register with circular bit shift function.
+// When OE is high, suppress all output (set to high impedance).
+// On CLK positive edge:
+//      S = 00: hold
+//      S = 01: left shift
+//      S = 10: right shift
+//      S = 11: load from bus D
+//
 // Dependencies: 
 //
 // Revision: 

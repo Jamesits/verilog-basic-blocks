@@ -2,7 +2,9 @@
 
 课堂作业。
 
-全部在 Digilent Nexys 3 (Xilinx Spartan-6 XC6LX16-CS324) 上完成，使用的IDE为ISE Project Navigator 14.7 lin64(P.20131013)。
+题目参见《基于FPGA的数字电路实验指导书》（ISBN 978-7-5606-4035-8）。
+
+全部在 Digilent Nexys 3 (Xilinx Spartan-6 XC6LX16-CS324) 上完成，使用的 IDE 为 ISE Project Navigator 14.7 lin64(P.20131013)。
 
 ## 目录
 

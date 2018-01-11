@@ -4,12 +4,14 @@
 // Engineer:       James Swineson
 // 
 // Create Date:    15:21:07 11/24/2017 
-// Design Name: 
-// Module Name:    EdgeJKFlipFlop 
+// Design Name:    EdgeJKFlipFlop
+// Module Name:    EdgeJKFlipFlop.v
 // Project Name:   EdgeJKFlipFlop
 // Target Devices: XC6LX16
 // Tool versions: 
 // Description: 
+//
+// JK FlipFLop trigger on clock positive edge.
 //
 // Dependencies: 
 //

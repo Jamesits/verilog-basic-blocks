@@ -11,11 +11,15 @@
 // Tool versions: 
 // Description: 
 //
+// Commit a level change only when it has been maintained without jitter after N cycles.
+//
 // Dependencies: 
 //
 // Revision: 
 // Revision 0.01 - File Created
 // Additional Comments: 
+//
+// Set CLK to 100Mbps normally.
 //
 //////////////////////////////////////////////////////////////////////////////////
 

@@ -6,7 +6,7 @@
 //
 // Create Date:   14:45:52 12/01/2017
 // Design Name:   ShiftRegister
-// Module Name:   ShiftRegisterTest.v
+// Module Name:   ShiftRegisterTest
 // Project Name:  ShiftRegister
 // Target Device: XC6LX16
 // Tool versions:  
@@ -14,7 +14,7 @@
 //
 // Verilog Test Fixture created by ISE for module: ShiftRegister
 //
-// Dependencies: ShiftRegister.v
+// Dependencies: ShiftRegister
 // 
 // Revision:
 // Revision 0.01 - File Created

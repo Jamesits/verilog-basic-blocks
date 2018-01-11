@@ -1,15 +1,18 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: 
+// Engineer:       James Swineson
 // 
 // Create Date:    14:13:54 11/24/2017 
-// Design Name: 
-// Module Name:    PriorityEncoder83 
-// Project Name: 
-// Target Devices: 
+// Design Name:    PriorityEncoder83
+// Module Name:    PriorityEncoder83.v
+// Project Name:   PriorityEncoder83
+// Target Devices: XC6LX16
 // Tool versions: 
 // Description: 
+//
+// 8-3 binary encoder with priority (low bits override high bits) written in bool logic.
+// If notEN is high, disable this module (output all zero).
 //
 // Dependencies: 
 //

@@ -14,7 +14,7 @@
 //
 // Verilog Test Fixture created by ISE for module: ButtonDejitter
 //
-// Dependencies:  ButtonDejitter.v
+// Dependencies:  ButtonDejitter
 // 
 // Revision:
 // Revision 0.01 - File Created

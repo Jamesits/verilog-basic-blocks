@@ -14,7 +14,7 @@
 //
 // Verilog Test Fixture created by ISE for module: EdgeJKFlipFlop
 //
-// Dependencies: EdgeJKFlipFlop.v
+// Dependencies: EdgeJKFlipFlop
 // 
 // Revision:
 // Revision 0.01 - File Created

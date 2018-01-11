@@ -1,5 +1,4 @@
-
-
+# PlanAhead Generated physical constraints 
 NET "Input[7]" LOC = T5;
 NET "Input[6]" LOC = V8;
 NET "Input[5]" LOC = U8;
@@ -12,7 +11,4 @@ NET "Output[2]" LOC = U15;
 NET "Output[1]" LOC = V16;
 NET "Output[0]" LOC = U16;
 NET "Done" LOC = T11;
-
-# PlanAhead Generated physical constraints 
-
 NET "notEN" LOC = B8;

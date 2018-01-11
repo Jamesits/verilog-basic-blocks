@@ -2,19 +2,19 @@
 
 ////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer:
+// Engineer:      James Swineson
 //
 // Create Date:   14:46:27 11/24/2017
 // Design Name:   PriorityEncoder83
-// Module Name:   /home/james/code/mux/PriorityEncoder_8-3/PriorityEncoder83_Test.v
-// Project Name:  PriorityEncoder_8-3
-// Target Device:  
+// Module Name:   PriorityEncoder83_Test.v
+// Project Name:  PriorityEncoder83
+// Target Device: XC6LX16
 // Tool versions:  
 // Description: 
 //
 // Verilog Test Fixture created by ISE for module: PriorityEncoder83
 //
-// Dependencies:
+// Dependencies: PriorityEncoder83
 // 
 // Revision:
 // Revision 0.01 - File Created
