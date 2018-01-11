@@ -14,7 +14,7 @@
 //
 // Verilog Test Fixture created by ISE for module: ReversableCounter
 //
-// Dependencies:  ReversableCounter.v
+// Dependencies:  ReversableCounter
 // 
 // Revision:
 // Revision 0.01 - File Created

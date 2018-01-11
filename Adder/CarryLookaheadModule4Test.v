@@ -6,15 +6,15 @@
 //
 // Create Date:   22:52:42 11/11/2017
 // Design Name:   CarryLookaheadAdder4
-// Module Name:   /home/james/code/CarryLookaheadAdder/CarryLookaheadAdder4Test.v
+// Module Name:   CarryLookaheadAdder4Test.v
 // Project Name:  CarryLookaheadAdder
-// Target Device:  
+// Target Device: XC6LX16
 // Tool versions:  
 // Description: 
 //
 // Verilog Test Fixture created by ISE for module: CarryLookaheadAdder4
 //
-// Dependencies:
+// Dependencies: CarryLookaheadAdder4
 // 
 // Revision:
 // Revision 0.01 - File Created

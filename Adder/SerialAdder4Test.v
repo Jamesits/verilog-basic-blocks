@@ -8,13 +8,13 @@
 // Design Name:   SerialAdder4
 // Module Name:   /home/james/code/SerialBinaryAdder/SerialAdder4Test.v
 // Project Name:  SerialBinaryAdder
-// Target Device:  
+// Target Device: XC6LX16
 // Tool versions:  
 // Description: 
 //
 // Verilog Test Fixture created by ISE for module: SerialAdder4
 //
-// Dependencies:
+// Dependencies:  SerialAdder4
 // 
 // Revision:
 // Revision 0.01 - File Created

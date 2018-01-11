@@ -1,0 +1,1 @@
+Do not add `SSD_Charmap.mem` file to project on Xilinx ISE, otherwise you will fail to compile.

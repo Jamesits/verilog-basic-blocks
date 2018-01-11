@@ -4,14 +4,16 @@
 // Engineer:       James Swineson
 // 
 // Create Date:    22:10:15 11/11/2017 
-// Design Name: 
-// Module Name:    SerialAdder4 
-// Project Name: 
-// Target Devices: 
+// Design Name:    SerialAdder4
+// Module Name:    SerialAdder4.v
+// Project Name:   SerialAdder4
+// Target Devices: XC6LX16
 // Tool versions: 
 // Description: 
 //
-// Dependencies: 
+// A 4-bit serial adder
+//
+// Dependencies: FullAdder
 //
 // Revision: 
 // Revision 0.01 - File Created

@@ -11,6 +11,12 @@
 // Tool versions: 
 // Description: 
 //
+// A 4-bit counter providing +1/-1 operation.
+// MR: async clear on positive edge
+// LOAD: load bus D to output on negative edge
+// EN: enable +1/-1 on clock positive edge if high
+// DATA: +1 if low, -1 if high
+//
 // Dependencies: 
 //
 // Revision: 

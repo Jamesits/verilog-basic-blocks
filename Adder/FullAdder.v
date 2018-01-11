@@ -4,12 +4,14 @@
 // Engineer:       James Swineson
 // 
 // Create Date:    14:35:46 11/03/2017 
-// Design Name: 
-// Module Name:    FullAdder 
-// Project Name: 
-// Target Devices: 
+// Design Name:    FullAdder
+// Module Name:    FullAdder.v
+// Project Name:   FullAdder
+// Target Devices: XC6LX16
 // Tool versions: 
 // Description: 
+//
+// A 1-bit full adder written in gate logic.
 //
 // Dependencies: 
 //

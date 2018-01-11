@@ -1,4 +1,5 @@
 NET "CLK" CLOCK_DEDICATED_ROUTE = FALSE;
+
 # PlanAhead Generated physical constraints 
 
 NET "Q[3]" LOC = V15;

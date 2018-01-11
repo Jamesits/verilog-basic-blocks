@@ -8,13 +8,13 @@
 // Design Name:   FullAdder
 // Module Name:   FullAdderTest.v
 // Project Name:  FullAdder
-// Target Device:  
+// Target Device: XC6LX16
 // Tool versions:  
 // Description: 
 //
-// Verilog Test Fixture created by ISE for module: top
+// Verilog Test Fixture created by ISE for module: FullAdder
 //
-// Dependencies:
+// Dependencies: FullAdder
 // 
 // Revision:
 // Revision 0.01 - File Created
@@ -34,7 +34,7 @@ module FullAdderTest;
 	wire OutputCarry;
 
 	// Instantiate the Unit Under Test (UUT)
-	top uut (
+	FullAdder uut (
 		.InputA(InputA), 
 		.InputB(InputB), 
 		.InputCarry(InputCarry), 

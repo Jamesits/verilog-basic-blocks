@@ -4,12 +4,14 @@
 // Engineer:       James Swineson
 // 
 // Create Date:    22:38:44 11/11/2017 
-// Design Name: 
-// Module Name:    CarryLookaheadModule4 
-// Project Name: 
-// Target Devices: 
+// Design Name:    CarryLookaheadAdder4
+// Module Name:    CarryLookaheadModule4.v 
+// Project Name:   CarryLookaheadAdder4
+// Target Devices: XC6LX16
 // Tool versions: 
 // Description: 
+//
+// A 4-bit carry lookahead module to use in adder, written in bool logic.
 //
 // Dependencies: 
 //
